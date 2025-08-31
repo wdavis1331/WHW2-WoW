@@ -72,6 +72,7 @@ th, td {
   padding: 12px;
   text-align: left;
   border-bottom: 1px solid #555;
+  color: #ffd700;
 }
 
 th {
@@ -177,6 +178,7 @@ header {
 
 nav a {
   margin: 0 15px;
+  font-size: 22px;
   text-decoration: none;
   color: #ffd700;
   font-weight: bold;
@@ -184,6 +186,7 @@ nav a {
 
 nav a:hover {
   text-decoration: underline;
+  color: #f8f8f6;
 }
 
 footer {
